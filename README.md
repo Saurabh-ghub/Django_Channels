@@ -1,6 +1,6 @@
 # Django_Channels
 # DJANGO CHANNEL PROJECT - Chatrooms
-## develop an asynchronous chatrooom services using Django and the Channel package
+## We will develop an asynchronous chatrooom services using Django and the Channel package
 ## Concept used :
  Websockets, ASGI , Channels Package
 
