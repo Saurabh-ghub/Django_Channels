@@ -42,8 +42,11 @@
 </p>
 </details>
 ![1](https://user-images.githubusercontent.com/72485869/147384698-b675f058-fca1-4467-99db-98c3af4e5204.jpeg)
+
 ![2](https://user-images.githubusercontent.com/72485869/147384700-00a0ca23-15aa-449c-b5c1-971103991dbd.jpeg)
+
 ![3](https://user-images.githubusercontent.com/72485869/147384702-36792fc4-88d2-44f4-810e-69264ad0ac31.jpeg)
+
 ![4](https://user-images.githubusercontent.com/72485869/147384713-a2bb85e9-e8a2-4620-bc44-630c19de42af.jpeg)
 
 ** Workflow in django **
