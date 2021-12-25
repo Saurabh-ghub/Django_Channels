@@ -26,7 +26,7 @@
 - define/create a callback function
 </p>
 </details>
-### Synchronous Vs Asynchronous
+
 
 
 <details><summary>Web Sockets</summary>
@@ -41,7 +41,15 @@
 
 </p>
 </details>
+![1](https://user-images.githubusercontent.com/72485869/147384698-b675f058-fca1-4467-99db-98c3af4e5204.jpeg)
+![2](https://user-images.githubusercontent.com/72485869/147384700-00a0ca23-15aa-449c-b5c1-971103991dbd.jpeg)
+![3](https://user-images.githubusercontent.com/72485869/147384702-36792fc4-88d2-44f4-810e-69264ad0ac31.jpeg)
+![4](https://user-images.githubusercontent.com/72485869/147384713-a2bb85e9-e8a2-4620-bc44-630c19de42af.jpeg)
 
+** Workflow in django **
+
+![5](https://user-images.githubusercontent.com/72485869/147384759-a6f84cd7-3799-4f11-8cdb-bf50e6af5020.jpeg)
+![6](https://user-images.githubusercontent.com/72485869/147384760-487cf103-26c0-4e8d-adb8-059a3f050293.jpeg)
 
 
 ## How do we know who send the message to ?
@@ -52,6 +60,8 @@
 4. Channel uses Groups : Add user's channel into the group
 
 - image: 
+![7](https://user-images.githubusercontent.com/72485869/147384763-85e80974-e189-41a4-9673-b065c9840553.jpeg)
+
 
 
 
