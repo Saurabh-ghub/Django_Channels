@@ -27,6 +27,8 @@
 </p>
 </details>
 
+> when we are using any asynchronousation we use async keyword before function
+
 ![0](https://user-images.githubusercontent.com/72485869/147388803-5b6b8a9f-76cb-48f5-abe1-3d5b50837858.jpeg)
 
 
@@ -69,5 +71,5 @@
 ![7](https://user-images.githubusercontent.com/72485869/147384763-85e80974-e189-41a4-9673-b065c9840553.jpeg)
 
 
-
-
+## Channel Layer : 
+- Channel layers allow you to talk between different instances of an application. They’re a useful part of making a distributed realtime application if you don’t want to have to shuttle all of your messages or events through a database.
