@@ -41,6 +41,7 @@
 
 </p>
 </details>
+
 ![1](https://user-images.githubusercontent.com/72485869/147384698-b675f058-fca1-4467-99db-98c3af4e5204.jpeg)
 
 ![2](https://user-images.githubusercontent.com/72485869/147384700-00a0ca23-15aa-449c-b5c1-971103991dbd.jpeg)
@@ -49,7 +50,7 @@
 
 ![4](https://user-images.githubusercontent.com/72485869/147384713-a2bb85e9-e8a2-4620-bc44-630c19de42af.jpeg)
 
-** Workflow in django **
+### Workflow in django
 
 ![5](https://user-images.githubusercontent.com/72485869/147384759-a6f84cd7-3799-4f11-8cdb-bf50e6af5020.jpeg)
 ![6](https://user-images.githubusercontent.com/72485869/147384760-487cf103-26c0-4e8d-adb8-059a3f050293.jpeg)
